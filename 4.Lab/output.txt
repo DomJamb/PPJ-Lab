@@ -1,0 +1,114 @@
+Comparing files OUTPUTS\01_ret_broj.out and TESTS\01_RET_BROJ\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\02_ret_global.out and TESTS\02_RET_GLOBAL\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\03_veliki_broj.out and TESTS\03_VELIKI_BROJ\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\04_neg_broj.out and TESTS\04_NEG_BROJ\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\05_plus.out and TESTS\05_PLUS\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\06_plus_signed.out and TESTS\06_PLUS_SIGNED\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\07_minus.out and TESTS\07_MINUS\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\08_bitor.out and TESTS\08_BITOR\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\09_bitand.out and TESTS\09_BITAND\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\10_bitxor.out and TESTS\10_BITXOR\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\11_fun1.out and TESTS\11_FUN1\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\12_fun2.out and TESTS\12_FUN2\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\13_fun3.out and TESTS\13_FUN3\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\13_scope1.out and TESTS\13_SCOPE1\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\14_scope2.out and TESTS\14_SCOPE2\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\15_scope3.out and TESTS\15_SCOPE3\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\16_scope4.out and TESTS\16_SCOPE4\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\17_char.out and TESTS\17_CHAR\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\18_init_izraz.out and TESTS\18_INIT_IZRAZ\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\19_if1.out and TESTS\19_IF1\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\20_if2.out and TESTS\20_IF2\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\21_if3.out and TESTS\21_IF3\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\22_if4.out and TESTS\22_IF4\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\23_niz1.out and TESTS\23_NIZ1\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\24_niz2.out and TESTS\24_NIZ2\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\25_niz3.out and TESTS\25_NIZ3\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\26_niz4.out and TESTS\26_NIZ4\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\27_rek.out and TESTS\27_REK\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\28_rek_main.out and TESTS\28_REK_MAIN\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\29_for.out and TESTS\29_FOR\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\30_while.out and TESTS\30_WHILE\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\31_inc.out and TESTS\31_INC\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\32_gcd.out and TESTS\32_GCD\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\33_short.out and TESTS\33_SHORT\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\34_izraz.out and TESTS\34_IZRAZ\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\35_params.out and TESTS\35_PARAMS\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\36_params2.out and TESTS\36_PARAMS2\TEST.OUT
+FC: no differences encountered
+
+Comparing files OUTPUTS\37_funcloop.out and TESTS\37_FUNCLOOP\TEST.OUT
+FC: no differences encountered
+
